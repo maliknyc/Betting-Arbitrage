@@ -13,6 +13,7 @@ Before running the script, ensure you have the following library installed:
 Ensure your betting data is in a CSV file with the following columns:
 - Column A: Arbitrary names/labels
 - Column B: Respective list of American odds
+Ensure all bets are mutually exclusive.
 
 ### Run the Script:
 Execute the script and follow the prompts:
